@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_email">Enter email</string>
+    <string name="welcome_back">WELCOME BACK</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="orr"><![CDATA[----><---------- OR ----------><-----]]></string>
+</resources>
