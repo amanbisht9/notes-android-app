@@ -7,4 +7,12 @@
     <string name="login">Login</string>
     <string name="forgot_password">Forgot password?</string>
     <string name="orr"><![CDATA[----><---------- OR ----------><-----]]></string>
+    <string name="please_sign_up">SIGN UP HERE</string>
+    <string name="sign_up_to_continue">Sign up to continue</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="have_an_account">Have an account?</string>
+    <string name="forgot_password_page_title">FORGOT PASSWORD</string>
+    <string name="please_enter_registered_email_id">Please enter registered email id</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="send_login_link">Send Login Link</string>
 </resources>
